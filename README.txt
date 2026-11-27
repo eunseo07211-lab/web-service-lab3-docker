@@ -1,0 +1,13 @@
+웹서비스설계 한국어 분반 · 13주차 Docker 실습
+
+1. Docker Desktop 또는 Docker Engine을 실행합니다. Linux 컨테이너를 사용합니다.
+2. 압축을 해제한 이 폴더에서 터미널을 엽니다.
+   Dockerfile과 index.html이 현재 폴더에 있어야 합니다.
+3. Week13_Docker_Lab_KO.html 안내를 0번 준비부터 7번 정리까지 순서대로 진행합니다.
+
+시작 파일: index.html, Dockerfile, .dockerignore
+Dockerfile은 확장자가 없는 파일입니다. Dockerfile.txt로 바꾸지 마세요.
+HTML의 변경은 실습 6에서 수행합니다. 시작할 때는 v1 상태를 유지합니다.
+첫 이미지 다운로드에는 인터넷이 필요합니다.
+
+이 자료는 실습 자료입니다. 제출 마감: 2026년 12월 6일(일) 23:59 (한국시간). GitHub 저장소 URL과 실습 보고서 PDF를 제출합니다.
